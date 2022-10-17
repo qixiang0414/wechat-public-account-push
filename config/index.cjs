@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxd20813e655aa0cfb',
+  APP_ID: 'wx68d42c916b2a6aa0',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'af856f8187e0a02e7e7e7bf1eb6a4564',
+  APP_SECRET: '7cfc4f40d4836c33d309de3ffcf8c57b',
 
   PROVINCE: '北京',
   CITY: '丰台',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '我滴路寳',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ooXAv5sl21HI6KJpyUU91yWSL0YM',
+      id: 'oYrl75nZ0KLiC2Pc8V34enPSFiNk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'WnBJKItWSjojedVPftvjWNIbDI2RG36vJUg5EjQM22w',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
